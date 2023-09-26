@@ -1,4 +1,4 @@
-a=33
+a=333
 b=12
 print(a+b)
-print ("veera"
+print ("veera")
